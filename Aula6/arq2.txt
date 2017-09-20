@@ -1,0 +1,8 @@
+linha um
+linha dois
+cat << EOF > arq2.txt
+linha um
+linha dois
+linha 3
+linha braba
+fudeu que nao volta
